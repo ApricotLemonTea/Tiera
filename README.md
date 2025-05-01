@@ -56,7 +56,7 @@
 *** 
 ### <h3 id='3'>Introduction</h3>
   - **Tiera's Dreamland: Illusion (Savage)**
-  - A design file of an imaginary raid contents in FF14. 
+  - Design files of an imaginary raid contents in FF14. 
   - Translate it into English may be a little hard to me but I will try it.
   - Don't have expectations for me XD
 <br>
